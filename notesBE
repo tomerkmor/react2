@@ -1,0 +1,10 @@
+
+notes for the backEnd:
+
+express : help with the routeing
+mongodb
+dotenv: store variables secretly
+bcrypt: hash the passwords
+cors: help communicate with the backEnd
+uuid: generate unique identifier 
+jsonwebtoken: in order to synchronous sign-in, when we log in as a existing user
