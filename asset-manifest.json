@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react2/static/css/main.83b49f99.css",
+    "main.js": "/react2/static/js/main.1d2636c4.js",
+    "static/media/pexels-alex-conchillos-3648850.jpg": "/react2/static/media/pexels-alex-conchillos-3648850.2876d45f7d7670a16e47.jpg",
+    "static/media/Poppins-Regular.ttf": "/react2/static/media/Poppins-Regular.1c701c9a6b587802e3d0.ttf",
+    "static/media/Poppins-Medium.ttf": "/react2/static/media/Poppins-Medium.b59f6a636397975c5409.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/react2/static/media/Poppins-SemiBold.5981b450a68d5134225b.ttf",
+    "static/media/Poppins-Bold.ttf": "/react2/static/media/Poppins-Bold.e2abc8f5e9a67ea669ea.ttf",
+    "static/media/Material-Design-Iconic-Font.ttf?v=2.2.0": "/react2/static/media/Material-Design-Iconic-Font.5a588d6a8bfc41d69f88.ttf",
+    "static/media/Material-Design-Iconic-Font.woff?v=2.2.0": "/react2/static/media/Material-Design-Iconic-Font.bd9b02bf1131d90bfe22.woff",
+    "static/media/Material-Design-Iconic-Font.woff2?v=2.2.0": "/react2/static/media/Material-Design-Iconic-Font.6ee80f4bf5d3f92f3bf7.woff2",
+    "static/media/favicon.ico": "/react2/static/media/favicon.6599c5b76058a7bbfdd5.ico",
+    "static/media/logo2.png": "/react2/static/media/logo2.2fe23974f8fd15c796a1.png",
+    "index.html": "/react2/index.html",
+    "main.83b49f99.css.map": "/react2/static/css/main.83b49f99.css.map",
+    "main.1d2636c4.js.map": "/react2/static/js/main.1d2636c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83b49f99.css",
+    "static/js/main.1d2636c4.js"
+  ]
+}
